@@ -6,7 +6,7 @@
 1.Prepare Your PDF File: <br />
 2.Ensure you have a PDF file that you want to process. Place this file in an accessible directory. <br />
 3.Create or Update the Python Script: <br />
-  Create a Python script and add the code to extract tables from the PDF. The code should include: <br />
+ensp Create a Python script and add the code to extract tables from the PDF. The code should include: <br />
    -Opening the PDF file. <br />
    -Extracting tables from each page. <br />
    -Saving the extracted tables to an csv file. <br />
