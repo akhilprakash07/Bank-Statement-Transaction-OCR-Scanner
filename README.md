@@ -6,15 +6,15 @@
 1.Prepare Your PDF File: <br />
 2.Ensure you have a PDF file that you want to process. Place this file in an accessible directory. <br />
 3.Create or Update the Python Script: <br />
-Create a Python script and add the code to extract tables from the PDF. The code should include: <br />
--Opening the PDF file. <br />
--Extracting tables from each page. <br />
--Saving the extracted tables to an csv file. <br />
--Make sure to replace placeholder file paths with the actual paths to your PDF and output files. <br />
+  Create a Python script and add the code to extract tables from the PDF. The code should include: <br />
+   -Opening the PDF file. <br />
+   -Extracting tables from each page. <br />
+   -Saving the extracted tables to an csv file. <br />
+   -Make sure to replace placeholder file paths with the actual paths to your PDF and output files. <br />
 5.Update File Paths: <br />
--Set the path to your PDF file in the script. <br />
--Specify the path where you want to save the Excel file. <br />
--Run the Script: <br />
+   -Set the path to your PDF file in the script. <br />
+   -Specify the path where you want to save the Excel file. <br />
+   -Run the Script: <br />
 
 
 **Additional Library Experience:**<br />
